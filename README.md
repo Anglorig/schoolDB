@@ -2,9 +2,13 @@
 A school database project in C++ and MySQL, using the MySQL C++ Connector
 
 Team :
+
 Iordan Ivanov    11A №16
+
 Stiliyan Hristov 11A №26
+
 Teodor Spasov    11A №28
+
 
 PLEASE NOTE -
 
